@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        wywla-ptsa
+        Wake Young Womens Leadership Academy
       </h1>
       <div class="links">
         <a
